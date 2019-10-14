@@ -1,4 +1,4 @@
-# Trust box
+# TrusBox
 
 ## Presentation
 
