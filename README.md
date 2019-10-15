@@ -1,8 +1,8 @@
-# TrusBox
+# Trust Box
 
 ## Presentation
 
-Source code of the website https://trustbox.cases.lu
+Source code of the [website of the Trust Box](https://trustbox.cases.lu).
 
 ```bash
 $ npm install
