@@ -9,14 +9,14 @@ body {
     background-color: rgb(246, 248, 250);
 }
 img {
-    padding: 2px;
+    padding: 0px;
 }
 
 .text-primary {
     color: #006FBA !important;
 }
 
-.bg-MOSP-blue {
+.bg-CUSTOM-blue {
     background-color: #006FBA;
 }
 .btn-primary {
