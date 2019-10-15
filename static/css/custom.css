@@ -57,6 +57,7 @@ a.disabled {
     color: #FFFFFF;
 }
 
+.spacer { margin:0; padding:0; height:100px; }
 
 /*
 Make bootstrap-select work with bootstrap 4 see:
